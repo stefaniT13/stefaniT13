@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefani Toteva
 - 👀 I’m interested in JavaScript, HTML5 and CSS3
-- 🌱 I’m currently learning Software Engeneering with JavaScript
+- 🌱 I’m currently learning Software Engineering with JavaScript
 - 💞️ I’m looking for an internship 
 - 📫 How to reach me: stefani.toteva13@gmail.com
 
